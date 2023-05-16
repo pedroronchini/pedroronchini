@@ -5,7 +5,7 @@
 - I'm studying NodeJs and PHP.
 
 # Languages and tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroronchini&layout=compact&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroronchini&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline-block">
     <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
     <img align="center" alt="Pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
